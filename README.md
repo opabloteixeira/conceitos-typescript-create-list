@@ -1,0 +1,2 @@
+# conceitos-typescript-create-list
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/164019a30bbe44e083a257a08ffe18e5)](https://app.codacy.com/manual/opabloteixeira/conceitos-typescript-create-list?utm_source=github.com&utm_medium=referral&utm_content=opabloteixeira/conceitos-typescript-create-list&utm_campaign=Badge_Grade_Dashboard)
