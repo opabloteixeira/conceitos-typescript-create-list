@@ -1,7 +1,7 @@
 {
-  "name": "api-barber",
+  "name": "conceitos-typescript-create-list",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.ts",
   "license": "MIT",
   "scripts": {
     "build": "tsc",
