@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img height=200 alt="React GitHub Repo List" src="https://res.cloudinary.com/dh1asxmc6/image/upload/v1589848166/Github/1_ZWHFoEIQXRdexpaO6vFGAA_ecftzs.png" />
+    <img height=160 alt="React GitHub Repo List" src="https://res.cloudinary.com/dh1asxmc6/image/upload/v1589848166/Github/1_ZWHFoEIQXRdexpaO6vFGAA_ecftzs.png" />
     <br>
     Node + Typescript Concepts
 </h1>
